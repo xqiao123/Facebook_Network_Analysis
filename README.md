@@ -22,3 +22,5 @@ o How likely is a successful chance to find a person with nth mutual friends thr
 o If a business finds its target customers, how much should it spend to reach that target? o How fast a business can target its 100 customers and how much is in budget?
 
 *Keywords: Network Analysis, Undirected Edgelist, Community Detection, Link Prediction, ERGM Models, Model Diagnosis, Problems Applied*
+
+Please click [here]() to view the complete report.
