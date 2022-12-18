@@ -23,4 +23,4 @@ o If a business finds its target customers, how much should it spend to reach th
 
 *Keywords: Network Analysis, Undirected Edgelist, Community Detection, Link Prediction, ERGM Models, Model Diagnosis, Problems Applied*
 
-Please click [here]() to view the complete report.
+Please click [here](https://github.com/xqiao123/Facebook_Network_Analysis/blob/main/Group_Project_Facebook_Report.pdf) to view the complete report.
