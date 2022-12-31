@@ -16,10 +16,10 @@ Facebook’s revenue majority comes from advertising in which the company charge
 model in which business relies heavily on local customers.
 
 Within this paper we’re seeking for the answers to some business questions, such as:
-o What is the probability of the “word of mount” given the assumption that A share fully all information to his/her friend B?
-o How likely is a given network act to a new person coming to the town? Given the same action to introduce a new product to the market, how likely is that new product to performs?
-o How likely is a successful chance to find a person with nth mutual friends through a given sample network? What does it mean if a business can have more information or is able to expand its customers’ network?
-o If a business finds its target customers, how much should it spend to reach that target? o How fast a business can target its 100 customers and how much is in budget?
+1）What is the probability of the “word of mount” given the assumption that A share fully all information to his/her friend B?
+2）How likely is a given network act to a new person coming to the town? Given the same action to introduce a new product to the market, how likely is that new product to performs?
+3）How likely is a successful chance to find a person with nth mutual friends through a given sample network? What does it mean if a business can have more information or is able to expand its customers’ network?
+4）If a business finds its target customers, how much should it spend to reach that target? o How fast a business can target its 100 customers and how much is in budget?
 
 *Keywords: Network Analysis, Undirected Edgelist, Community Detection, Link Prediction, ERGM Models, Model Diagnosis, Problems Applied*
 
